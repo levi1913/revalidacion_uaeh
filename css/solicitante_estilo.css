@@ -1,0 +1,54 @@
+.Boton-solicitud{
+    background: #C9312D;
+    color: white;
+    width: 300px;
+    border-radius: 10px;
+    padding:6px;
+    padding-right: 15px;
+    padding-left: 15px;
+    opacity: .9;
+}
+.Boton-solicitud:hover{
+    background: #AC132C;
+    cursor: pointer;
+}
+.solicitud{
+    margin: auto;
+    width: 900px;
+    height:auto;
+}
+@media(max-width:900px){
+    .solicitud{
+        width: 80%;
+    }
+}
+.Direccion{
+    width: 80%;
+    height: auto;
+    margin: auto;
+    box-shadow: 1px 3px 9px 3px rgba(78, 80, 85, 3);
+    text-align: center;
+    padding-bottom:30px;
+}
+.info-direccion{
+    padding-left:20px;
+}
+.Direccion label{
+    padding-right: 30px;
+    padding-bottom:70px;
+}
+.Direccion h3{
+    font-size: 130%;
+}
+.instrucciones{
+    text-align: justify;
+    margin-left:-20px;
+}
+.liga{
+      padding-left:30px;
+      margin: 0;
+}
+.margen{
+    box-shadow: 1px 1px 9px 1px rgba(63, 63, 191, 3);
+    padding: 20px
+}

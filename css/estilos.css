@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+}
+.color1{
+   background: #AC132C;
+}
+.color2{
+    background: #4E5055; 
+}
+
+@import url(//db.onlinewebfonts.com/c/12d2fa3dcf227b9538084a6bcfeafcf0?family=Trajan+Pro);
+
+@font-face {font-family: "Trajan Pro"; src: url("//db.onlinewebfonts.com/t/12d2fa3dcf227b9538084a6bcfeafcf0.eot"); src: url("//db.onlinewebfonts.com/t/12d2fa3dcf227b9538084a6bcfeafcf0.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/12d2fa3dcf227b9538084a6bcfeafcf0.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/12d2fa3dcf227b9538084a6bcfeafcf0.woff") format("woff"), url("//db.onlinewebfonts.com/t/12d2fa3dcf227b9538084a6bcfeafcf0.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/12d2fa3dcf227b9538084a6bcfeafcf0.svg#Trajan Pro") format("svg"); }
+
+.letra{
+    font-family: 'Trajan Pro';
+    font-size: 20px;
+    color: black !important; 
+}
+
+.letrados{
+    font-family: 'Trajan Pro';
+    font-size: 10px;
+    color: black !important; 
+}
+.login .in{
+    width: 300px;
+    height: 35px;
+    text-align:center;
+    box-shadow: 1px 1px 9px 1px rgba(63, 63, 191, 3);
+    border-radius: 7px;
+    font-family: Helvetica Neue;
+}
+label{
+    font-size: 20px;
+}
+.Boton{
+    background: #C9312D;
+    color: white;
+    width: 230px;
+    border-radius: 10px;
+    padding:5px;
+    padding-right: 15px;
+    padding-left: 15px;
+    opacity: .9;
+}
+.Boton:hover{
+    background: #AC132C;
+    cursor: pointer;
+}
+.pie_gris{
+    background: #EAE3D8;
+    height: 50px;
+    width: all;
+    margin: auto;
+    padding-top: 13px;
+    color: #777777;
+    font-size:18px;
+}
+.pie_negro{
+    background: #706A5C;
+    height: 50px;
+    width: all;
+    margin: auto;
+    color: whitesmoke;
+    padding-top: 2px;
+}
+.pie_gris .pie_negro p{
+    font-size: 15px;
+}
+.olvidar{
+    text-decoration: underline;
+    color:blue;
+    font-size: 14px;
+}
+input,textarea{
+    width: 90%;
+    margin-bottom: 20px;
+    padding: 7px;
+    box-sizing: border-box;
+    border:none;
+    border-bottom: 1px solid #A6C7FF;
+}  
+textarea{
+      min-height: 100px;
+      max-height: 150px;
+      max-width: 100%;
+}
+input [name="apellidoP"]{
+  width:40%;
+}
+.registro-formulario{
+    width:50%;
+    height: auto;
+    margin: auto;
+    padding-top: 20px;
+    box-shadow: 1px 3px 9px 3px rgba(78, 80, 85, 3);
+    font-size: 18px;
+}
+.letra-enca{
+    font-family: 'Trajan Pro';
+    font-size: 40px;
+    color: black !important; 
+}
+

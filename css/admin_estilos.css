@@ -1,0 +1,141 @@
+.folio{
+    padding:20px;
+}
+.contenedor{
+    display: flex;
+    padding:10px;
+    padding-left: 70px;
+}
+.info-dada{
+    padding:10px;
+    margin-right: 10px;
+}
+.info-actua{
+    padding:10px;
+}
+@import url(//db.onlinewebfonts.com/c/12d2fa3dcf227b9538084a6bcfeafcf0?family=Trajan+Pro);
+
+@font-face {font-family: "Trajan Pro"; src: url("//db.onlinewebfonts.com/t/12d2fa3dcf227b9538084a6bcfeafcf0.eot"); src: url("//db.onlinewebfonts.com/t/12d2fa3dcf227b9538084a6bcfeafcf0.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/12d2fa3dcf227b9538084a6bcfeafcf0.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/12d2fa3dcf227b9538084a6bcfeafcf0.woff") format("woff"), url("//db.onlinewebfonts.com/t/12d2fa3dcf227b9538084a6bcfeafcf0.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/12d2fa3dcf227b9538084a6bcfeafcf0.svg#Trajan Pro") format("svg"); }
+
+.letrados{
+    font-family: 'Trajan Pro';
+    font-size: 13px;
+    color: black !important; 
+}
+@import url(//db.onlinewebfonts.com/c/12d2fa3dcf227b9538084a6bcfeafcf0?family=Trajan+Pro);
+
+@font-face {font-family: "Trajan Pro"; src: url("//db.onlinewebfonts.com/t/12d2fa3dcf227b9538084a6bcfeafcf0.eot"); src: url("//db.onlinewebfonts.com/t/12d2fa3dcf227b9538084a6bcfeafcf0.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/12d2fa3dcf227b9538084a6bcfeafcf0.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/12d2fa3dcf227b9538084a6bcfeafcf0.woff") format("woff"), url("//db.onlinewebfonts.com/t/12d2fa3dcf227b9538084a6bcfeafcf0.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/12d2fa3dcf227b9538084a6bcfeafcf0.svg#Trajan Pro") format("svg"); }
+
+.letratres{
+    font-family: 'Trajan Pro';
+    font-size: 20px;
+    color: black !important; 
+}
+input{
+    height: 30px;
+    width: 190px;
+   
+}
+.conte-correo input{
+    height: 30px;
+    width: 400px;
+    border-bottom: none;
+   
+}
+.indos{
+    width: 130px;
+}
+.intres{
+    width: 130px;
+    padding-bottom: 10px;
+}
+#edit{
+    width: 90px;
+    height: 40px;
+}
+.folio_bus{
+    padding:20px;
+}
+.folio_bus input{
+    width:120px;
+}
+.formularios{
+    padding-left:50px;
+}
+.conte-correo form{
+    width: 450px;
+    margin: auto;
+    background: rgba(0,0,0,0.7);
+    padding: 10px 20px;
+    box-sizing: border-box;
+    border-radius: 7px;
+}
+.contenedor .info-actua .info-dada input,textarea{
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 7px;
+    box-sizing: border-box;
+    border: none; 
+}  
+textarea{
+      min-height: 100px;
+      max-height: 150px;
+      max-width: 100%;
+  }
+.container-dos{
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto; 
+    margin-left: auto;
+
+}
+.pre2{
+    background: #eae3d8;
+    opacity: 0.9;
+    padding: 50px;
+    margin-right: 20px;
+    border-radius: 20px;
+    box-sizing: border-box;
+    margin: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    justify-items: center;
+}
+.centro{
+    padding-left: 100px;
+}
+.boton-rojo{
+    background: #AC132C;
+}
+.Boton{
+    background: #C9312D;
+    color: white;
+    width: 130px;
+    border-radius: 10px;
+    padding:1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    opacity: .9;
+}
+.Boton:hover{
+    background: #AC132C;
+    cursor: pointer;
+}
+.letratres{
+   font-family: Helvetica Neue;
+}
+.Boton_dos{
+    background: #C9312D;
+    color: white;
+    width: 410px;
+    border-radius: 10px;
+    padding:1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    opacity: .9;
+}
+.Boton:hover{
+    background: #AC132C;
+    cursor: pointer;
+}
