@@ -52,6 +52,8 @@
                
                Correo<br>
                <input type="email" name="email" placeholder="Correo electrónico"><br>
+               CURP<br>
+               <input type="text" name="curp" placeholder="CURP"><br>
                Contraseña<br>
                <input type="password" name="contra" placeholder="Contraseña nueva"><br><br>
 
